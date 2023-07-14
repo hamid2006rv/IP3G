@@ -12,7 +12,7 @@ use the "download data.ipynb" to download data.
 To convert gene expression profiles to images with size 128x128, use "preprocessing.ipynb"
 
 ## Training IP3G
-You can use model.ipynb to train IP3G model
+You can use "new model.ipynb" to train IP3G model
 
 
 
