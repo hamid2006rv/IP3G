@@ -4,7 +4,7 @@ Gene expression analysis is valuable for cancer type classification and identify
 ## Implementation
 Keras implementation of "Intelligent Phenotype-Detection and Gene Expression Profile Generation with Generative Adversarial Networks"
 
-![Alt text](relative%20path/to/img.jpg?raw=true "Title")
+![Alt text](generator.jpg?raw=true "Generator Model")
 
 
 ## Dataset :
