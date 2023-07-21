@@ -5,7 +5,7 @@ Gene expression analysis is valuable for cancer type classification and identify
 Keras implementation of "Intelligent Phenotype-Detection and Gene Expression Profile Generation with Generative Adversarial Networks"
 
 ![Alt text](generator.jpg?raw=true "Generator Model")
-
+![Alt text](discrimiantor.jpg?raw=true "Discriminator Model")
 
 ## Dataset :
 TCGA  and GTEx datasets are available in this repository : https://xenabrowser.net/datapages/
@@ -19,6 +19,8 @@ To convert gene expression profiles to images with size 128x128, use "preprocess
 
 ## Training IP3G
 You can use "new model.ipynb" to train IP3G model
+![Alt text](generated samples.png?raw=true "Samole Image Generation")
+
 
 
 
