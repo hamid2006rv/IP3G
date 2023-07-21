@@ -19,7 +19,7 @@ To convert gene expression profiles to images with size 128x128, use "preprocess
 
 ## Training IP3G
 You can use "new model.ipynb" to train IP3G model
-![Alt text]('generated samples.png'?raw=true "Samole Image Generation")
+![Alt text](samples.png?raw=true "Samole Image Generation")
 
 
 
