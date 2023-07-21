@@ -7,7 +7,7 @@ Generator Model:
 ![Alt text](generator.jpg?raw=true "Generator Model")
 
 Discriminator Model:
-![Alt text](discrimiantor.jpg?raw=true "Discriminator Model")
+![Discriminator Model](discriminator.jpg)
 
 ## Dataset :
 TCGA  and GTEx datasets are available in this repository : https://xenabrowser.net/datapages/
